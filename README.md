@@ -1,7 +1,7 @@
 # Offensive Language Identification in Transliterated and Code-Mixed Bangla
 
 **Publication**: *Proceedings of the 1st International Workshop on Bangla Language Processing (BLP-2023), EMNLP.*
-** [Best Short Paper Award] **
+**[Best Short Paper Award]**
 
 **Read in [arXiv](https://arxiv.org/pdf/2311.15023.pdf)** 
 
